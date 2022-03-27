@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+---
+layout: home
+---
 
-You can use the [editor on GitHub](https://github.com/tvinson2wake/azure-hands-on-labs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Labs
 
-### Markdown
+1. [Serverless with Azure Functions](./labs/01_serverless/serverless.md) 
+1. [Introduction to IoT on Azure](./labs/02_iot/iot.md)
+1. [Introduction to Terraform on Azure](./labs/03_terraform/terraform.md)
+1. [Introduction to Containers on Azure](./labs/04_containers_on_azure/containers_on_azure.md)
+1. [Introduction to Container Orchestration and AKS](./labs/05_container_orchestration_and_aks/containers_and_aks.md)
+1. [Introduction to CI/CD with Azure DevOps](./labs/06_cicd_azure_devops/cicd_azure_devops.md)
+1. [Introduction to Infrastructure as Code (IaC) for Azure](./labs/07_iac/iac.md)
+1. [Introduction to Automated Testing with Azure DevOps](./labs/08_testing/testing.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Acknowledgements
 
-```markdown
-Syntax highlighted code block
+These labs are based on existing Azure Labs and training materials and were tuned and updated were required.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tvinson2wake/azure-hands-on-labs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. For the *Serverless with Azure Functions* lab, see [Microsoft Azure training for researchers](https://github.com/MSRConnections/Azure-training-course), [Apache 2 License](https://raw.githubusercontent.com/MSRConnections/Azure-training-course/master/LICENSE.md).
+1. For the *Introduction to IoT on Azure* lab, see [Azure IoT Hands on Labs](https://github.com/Azure-Samples/azureiotlabs), [MIT License](https://raw.githubusercontent.com/Azure-Samples/azureiotlabs/master/LICENSE.md).
+1. For the *Introduction to Containers and AKS* lab, see [Project Phoenix - Containerize your enterprize](https://github.com/denniszielke/phoenix).
