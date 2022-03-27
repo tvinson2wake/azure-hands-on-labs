@@ -7,3 +7,4 @@ kramdown:
       disable : true
 sass:
   style: :compressed
+theme: jekyll-theme-midnight
